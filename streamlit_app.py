@@ -1,3 +1,3 @@
 import streamline
 
-streamlite.title('New App Title')
+streamlit.title('New App Title')
